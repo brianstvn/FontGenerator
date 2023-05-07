@@ -1,5 +1,6 @@
 # FontGenerator
 Fancy Text Fonts Generator Online
+DEMO: https://freedomfonts.netlify.app
 
 Put it in your bookmarks and contribute something ❤️
 
